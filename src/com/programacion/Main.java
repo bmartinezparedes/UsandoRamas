@@ -6,5 +6,7 @@ public class Main {
 	// write your code here
         System.out.println("Rama principal");
         System.out.println("Hago modificaciones en l arama rpincipal");
+        System.out.println("Salgo de la rama principal");
+        System.out.println("Voy a la bugFix");
     }
 }
